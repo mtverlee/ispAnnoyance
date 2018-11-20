@@ -1,0 +1,4 @@
+speedtest-cli
+sentry-sdk
+mysql-connector
+python-twitter
